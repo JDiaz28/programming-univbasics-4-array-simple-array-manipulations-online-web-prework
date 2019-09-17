@@ -23,4 +23,4 @@ colors_in_the_rainbow.flatten
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
 colors_in_the_rainbow.delete(2)
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-colors_in_the_rainbow.delete_at("green")
+colors_in_the_rainbow.delete_at(3)
