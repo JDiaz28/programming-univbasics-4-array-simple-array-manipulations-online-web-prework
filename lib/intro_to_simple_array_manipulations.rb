@@ -9,7 +9,7 @@ colors_in_the_rainbow.pop(1)
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
 colors_in_the_rainbow.shift
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-colors_in_the_rainbow.shift("yellow")
+colors_in_the_rainbow.shift(2)
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
 colors_in_the_rainbow.concat(["violet"])
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
